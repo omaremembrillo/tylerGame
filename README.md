@@ -9,6 +9,11 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 You will need `node` and `npm` installed on your machine.
 
+### Cloning
+```
+git clone https://github.com/omaremembrillo/tylerGame.git
+```
+
 ### Installing
 ```
 npm install
