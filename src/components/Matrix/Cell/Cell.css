@@ -1,0 +1,6 @@
+.tyler_cell {
+    width: calc(400px/4);
+    height: calc(400px/4);
+    border: 1px solid #999999;
+    display: table-cell;
+}

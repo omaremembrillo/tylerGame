@@ -1,0 +1,13 @@
+.tyler_board {
+    display: table;
+    width: 400px;
+    margin: 0 auto;
+}
+  
+.tyler_matrix {
+    display: table-row-group;
+}
+  
+.tyler_row {
+    display: table-row;
+}
