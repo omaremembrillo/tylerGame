@@ -29,3 +29,6 @@ To create this application were used:
 
 ### create-react-app
 To set up the development environment (it includes Webpack an Babel)
+
+### css-loader
+To import css classes and use them directly on the elements (allowing a pseudo shadow dom).
