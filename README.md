@@ -19,8 +19,13 @@ npm install
 npm start
 ```
 
-
 ### To visit App
 ```
 localhost:3000
 ```
+
+## Notes
+To create this application were used:
+
+### create-react-app
+To set up the development environment (it includes Webpack an Babel)
